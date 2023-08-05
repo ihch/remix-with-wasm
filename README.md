@@ -1,12 +1,9 @@
-> **Warning**  
-> The `@remix-run/vercel` runtime adapter has been deprecated in favor of out of
-> the box Vercel functionality and will be removed in Remix v2.  
-> This means you don't have to use the Vercel template & can just use the Remix
-> template instead.
+# remix-with-wasm
 
-# Welcome to Remix!
+https://github.com/ihch/ogper で生成したWebAssemblyを、Remixのサーバーサイドの機能に流用しようという試み。
 
-- [Remix Docs](https://remix.run/docs)
+作業記事
+https://ricomintea.hatenablog.jp/entry/2023/08/05/190750
 
 ## Deployment
 
